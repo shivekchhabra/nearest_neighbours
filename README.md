@@ -8,4 +8,4 @@ After cloning, install requirements in your virtual environment.
 
 You may change the value of 'n' (currently 100) from main and run the code.
 
-
+![alt text](https://github.com/shivekchhabra/nearest_neighbours/blob/master/output%20image.png)
